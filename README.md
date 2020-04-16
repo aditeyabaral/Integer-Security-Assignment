@@ -14,6 +14,4 @@ To run the secure file:
 
 Finally, execute the outfile using ```./a.out```
 
-Note:
-
 *A database file is created upon first run and all user credentials are stored in this file. This database is loaded into memory on subsequent runs*
